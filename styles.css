@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.contenido{
+    display: flex;
+    padding: 0 20%
+}
+
+aside{
+    width: 30%;
+    background-color: #33384A;
+    color: white;
+    padding: 5%;
+}
+
+main{
+    width: 70%;
+    background-color: rgb(241, 241, 241);
+    padding: 5%;
+}
+
+.profile-image{
+    width: 100%;
+    box-shadow: 0 0 15px white;
+}
+
+.name{
+    width: 100%;
+    margin-top: 20px;
+}
+
+h2{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.hrye{
+    content: '';
+    position: absolute;
+    width: 12%;
+    height: 2px;
+    background-color: rgb(189, 163, 46);
+    border: none;
+}
+
+h3{
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+
+li{
+    list-style: none;
+}
+
+.idiomas{
+    margin-top: 25px;
+}
+
+.hrbl{
+    content: '';
+    position: absolute;
+    background-color: #33384A;
+    height: 2.5px;
+    width: 36%;
+}
+
+p{
+    margin-top: 25px;
+}
+
+main{
+    font-size: 1.2em;
+}
+
+#trabajo{
+    margin-top: 5px;
+}
+
+.skills{
+    margin-top: 30px;
+}
+
+.hobbies{
+    margin-top: 30px;
+}
+
+#lista{
+    list-style: circle;
+    padding: 5px;
+    margin-left: 2%;
+}
+
